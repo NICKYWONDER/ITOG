@@ -1,0 +1,15 @@
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\bin\Debug\net7.0\OTOGOVII.exe
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\bin\Debug\net7.0\OTOGOVII.deps.json
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\bin\Debug\net7.0\OTOGOVII.runtimeconfig.json
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\bin\Debug\net7.0\OTOGOVII.dll
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\bin\Debug\net7.0\OTOGOVII.pdb
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\obj\Debug\net7.0\OTOGOVII.csproj.AssemblyReference.cache
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\obj\Debug\net7.0\OTOGOVII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\obj\Debug\net7.0\OTOGOVII.AssemblyInfoInputs.cache
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\obj\Debug\net7.0\OTOGOVII.AssemblyInfo.cs
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\obj\Debug\net7.0\OTOGOVII.csproj.CoreCompileInputs.cache
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\obj\Debug\net7.0\OTOGOVII.dll
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\obj\Debug\net7.0\refint\OTOGOVII.dll
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\obj\Debug\net7.0\OTOGOVII.pdb
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\obj\Debug\net7.0\OTOGOVII.genruntimeconfig.cache
+C:\Users\АРТЕМ\Desktop\Программиорование\3. С#\OTOGOVII\obj\Debug\net7.0\ref\OTOGOVII.dll
